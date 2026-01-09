@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://github.com/IgorechekXD/IgorechekXD/blob/main/XiaoQiFlash.png?raw=true" height=500 /><br>XiaoQiFlash
+<img src="https://github.com/IgorechekXD/IgorechekXD/blob/main/XiaoQiFlash.png?raw=true" height="250" /><br>
+
+# XiaoQiFlash
 ### From Stock to OpenWrt in one click
 
 **XiaoQiFlash** — это быстрый и безопасный прошивальщик на C++ для роутеров Xiaomi (Mi 4A Gigabit и другие).  
@@ -51,8 +53,4 @@
 Если XiaoQiFlash сэкономил вам время и нервы, поставьте :star: этому репозиторию!
 
 ## ⚖️ Лицензия
-
 Проект распространяется на условиях лицензии [MIT](https://opensource.org/licenses/MIT).
-
-
-
