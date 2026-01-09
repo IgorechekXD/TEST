@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/IgorechekXD/IgorechekXD/blob/main/XiaoQiFlash.png?raw=true" height="500" /><br>
+<img src="https://github.com/IgorechekXD/IgorechekXD/blob/main/XiaoQiFlash.png?raw=true" height="300" /><br>
 
 # XiaoQiFlash
 ### From Stock to OpenWrt in one click
@@ -54,4 +54,5 @@
 
 ## ⚖️ Лицензия
 Проект распространяется на условиях лицензии [MIT](https://opensource.org/licenses/MIT).
+
 
