@@ -5,7 +5,6 @@
 ### From Stock to OpenWrt in one click
 
 **XiaoQiFlash** — это сверхбыстрый и мощный прошивальщик на C++ для роутеров Xiaomi (Mi 4A Gigabit и другие).  
-Забудьте о сложных Python-скриптах и небезопасном Telnet. Один файл — полный SSH-контроль.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)]()
@@ -40,7 +39,7 @@
 2. Подключите роутер Xiaomi к ПК по кабелю (LAN-порт).
 3. Запустите программу и введите пароль от админки роутера.
 4. Нажмите кнопку **ACTIVATE SSH** и дождитесь завершения процесса.
-5. **Готово!** Теперь вы можете шить OpenWrt через интерфейс программы или любой SSH-клиент.
+5. **Готово!** Теперь вы можете проводить любые операции в программе / в SSH роутера.
 
 ## ℹ️ Состав полезной нагрузки
 * **`dropbear`**: Компактный и мощный SSH/SFTP сервер для встраиваемых систем.
@@ -54,3 +53,4 @@
 
 ## ⚖️ Лицензия
 Проект распространяется на условиях лицензии [MIT](https://opensource.org/licenses/MIT).
+
